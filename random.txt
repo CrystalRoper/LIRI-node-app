@@ -1,3 +1,1 @@
-spotify-this-song,"I Want it That Way"
-movie-this,"Return of the Jedi"
-concert-this,"Maroon 5"
+spotify-this-song,I Want it That Way,movie-this,Return of the Jedi,concert-this,Maroon 5
